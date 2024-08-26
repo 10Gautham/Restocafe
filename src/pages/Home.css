@@ -1,0 +1,7 @@
+/* Home.css */
+.carousel-image {
+    max-height: 400px;  /* Set a maximum height for the images */
+    width: 100%;
+    object-fit: cover;  /* Ensures the image covers the container without stretching */
+  }
+  
